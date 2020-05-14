@@ -1,4 +1,4 @@
-# Awesome cdk8s
+# Awesome cdk8s [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repository curates the best [ckd8s](https://github.com/awslabs/cdk8s) resources.
 
