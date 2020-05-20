@@ -22,5 +22,4 @@ This repository curates the best [ckd8s](https://github.com/awslabs/cdk8s) resou
 * [Integration cdk8s with Flux](https://brennerm.github.io/posts/integrating-cdk8s-with-flux.html), 2020/4/8 by [Max Brenner](https://brennerm.github.io/about.html)
 * [cdk8s – the future of Kubernetes application deployments?](https://jambit.com/en/latest-info/toilet-papers/cdk8s-the-future-of-kubernetes-application-deployments/), 2020/3/30 by [Max Brenner](https://brennerm.github.io/about.html)
 * [Using cdk8s to manage your k8s app on Google Cloud - Part 1](https://medium.com/@campionfellin/using-cdk8s-to-manage-your-k8s-app-on-google-cloud-part-1-1285b3e6a6ad) + [Part 2](https://medium.com/@campionfellin/using-cdk8s-to-manage-your-k8s-app-on-google-cloud-part-2-1dd8cdb0fb2c), 2020/3/18 by [Campion Fellin](https://github.com/campionfellin)
-
-
+* [Example using cdk8s and Github Actions for CI/CD to clusters in GKE and EKS](https://github.com/campionfellin/cdk8s-cicd-example), 2020/3/08 by [Campion Fellin](https://github.com/campionfellin)
