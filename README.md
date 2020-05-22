@@ -9,6 +9,7 @@ This repository curates the best [ckd8s](https://github.com/awslabs/cdk8s) resou
 * [cdk8s-debore](https://github.com/toricls/cdk8s-debore) - Run your apps on Kubernetes cluster without bored YAMLing, powered by the cdk8s project 🚀
 * [cdk8s-docker](https://github.com/brennerm/cdk8s-docker) - inofficial Docker image for cdk8s
 * [cdk8s-redis](https://github.com/eladb/cdk8s-redis) - Redis constructs for cdk8s
+* [cdk8s-xray](https://github.com/mziyabo/cdk8s-xray) - AWS X-Ray constructs for cdk8s 
 
 ### Talks & Blog Posts
 
