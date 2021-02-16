@@ -7,6 +7,7 @@ This repository curates the best [ckd8s](https://github.com/awslabs/cdk8s) resou
 > sort alphabetically by module name
 
 * [cdk8s-debore](https://github.com/toricls/cdk8s-debore) - Run your apps on Kubernetes cluster without bored YAMLing, powered by the cdk8s project 🚀
+* [cdk8s-aws-lb-controller-api-object)](https://github.com/opencdk8s/cdk8s-aws-lb-controller-api-object) - API object for AWS Load Balancer Controller
 * [cdk8s-docker](https://github.com/brennerm/cdk8s-docker) - inofficial Docker image for cdk8s
 * [cdk8s-mongo-sts](https://github.com/opencdk8s/cdk8s-mongo-sts) - CDK8s construct to create a replicated, and password protected MongoDB Kubernetes Statefulset 
 * [cdk8s-redis](https://github.com/eladb/cdk8s-redis) - Redis constructs for cdk8s
