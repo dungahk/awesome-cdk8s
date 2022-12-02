@@ -15,6 +15,7 @@ This repository curates the best [ckd8s](https://github.com/awslabs/cdk8s) resou
 
 > sort by date, latest at the top
 
+* [First look at cdk8s](https://www.autops.eu/first-look-at-cdk8s/), 2022/11/06 by [Vincent Van der Kussen](https://twitter.com/vincentvdk), [Autops](https://www.autops.eu/)
 * [AWS open sources cloud development kit to make Kubernetes easier to use](https://siliconangle.com/2020/05/13/aws-open-sources-cdk8s-make-kubernetes-easier-use), 2020/5/13 by [Maria Deutscher](https://siliconangle.com/author/chi22), [SiliconANGLE](https://siliconangle.com)
 * [cdk8s, the Cloud Development Kit for Kubernetes](https://www.openconstructfoundation.org/cdk8s/), 2020/5/13 by [Matthew Bonig](https://twitter.com/mattbonig), [The Open Construct Foundation](https://www.openconstructfoundation.org).
 * [End YAML engineering with cdk8s!](https://www.cncf.io/webinars/end-yaml-engineering-with-cdk8s) (CNCF Webinar), 2020/5/13 by AWS
@@ -27,3 +28,4 @@ This repository curates the best [ckd8s](https://github.com/awslabs/cdk8s) resou
 ### Examples
 
 * [Using cdk8s and Github Actions for CI/CD to clusters in GKE and EKS](https://github.com/campionfellin/cdk8s-cicd-example), 2020/3/08 by [Campion Fellin](https://github.com/campionfellin)
+* [First look at cdk8s](https://github.com/autops/examples/tree/master/cdk-first-look-blog), 2022/11/06, by [Autops](https://github.com/autops)
